@@ -1,7 +1,7 @@
 # AWS Workspaces Terraform Deployment
 This repository contains Terraform code to deploy a full-stack AWS Workspace environment. AWS Workspaces provide a flexible, secure, and scalable solution for remote desktops in the cloud. This README will guide you through the deployment process.
 
-##Prerequisites
+## Prerequisites
  Before you begin, make sure you have the following prerequisites in place:
 1. AWS Account: You will need an AWS account with sufficient permissions to create and manage AWS resources.
 2. VPC with Subnets: Ensure you have an existing VPC with subnets set up in different availability zones (AZs) within your AWS account. Note down the subnet IDs of these subnets as you will need them during the deployment.
