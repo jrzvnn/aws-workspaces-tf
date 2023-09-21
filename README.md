@@ -64,3 +64,5 @@ terraform apply
 ```sh
 terraform destroy
 ```
+
+Credits to [Devkinetics](https://github.com/devkinetics) for this project.
